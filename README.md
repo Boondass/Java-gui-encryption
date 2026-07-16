@@ -23,7 +23,7 @@ This project was developed as part of coursework at **Tshwane University of Tech
 
 ## 📬 Contact
 If you'd like to connect or discuss improvements:
-- Email: your.email@example.com
+- Email: lebogangmojakie@gmail.com
 - GitHub: [@boondasmojakie](https://github.com/boondasmojakie)
 
 
